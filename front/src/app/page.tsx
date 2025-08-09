@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Amk Fahişe Zübeydesi!
+            Amk Fahişe Zübeydesi! Sikik !
           </li>
         </ol>
 
